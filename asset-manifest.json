@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4364a10d.chunk.css",
+    "main.js": "./static/js/main.1359e3cc.chunk.js",
+    "main.js.map": "./static/js/main.1359e3cc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3385b1b7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3385b1b7.js.map",
+    "static/js/2.408839dc.chunk.js": "./static/js/2.408839dc.chunk.js",
+    "static/js/2.408839dc.chunk.js.map": "./static/js/2.408839dc.chunk.js.map",
+    "static/js/3.997c06db.chunk.js": "./static/js/3.997c06db.chunk.js",
+    "static/js/3.997c06db.chunk.js.map": "./static/js/3.997c06db.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.4364a10d.chunk.css.map": "./static/css/main.4364a10d.chunk.css.map",
+    "static/js/2.408839dc.chunk.js.LICENSE.txt": "./static/js/2.408839dc.chunk.js.LICENSE.txt",
+    "static/media/Blaze.4a767a57.png": "./static/media/Blaze.4a767a57.png",
+    "static/media/App.css": "./static/media/background.66c80554.jpg",
+    "static/media/background.d1104889.png": "./static/media/background.d1104889.png",
+    "static/media/green.c251fd37.png": "./static/media/green.c251fd37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3385b1b7.js",
+    "static/js/2.408839dc.chunk.js",
+    "static/css/main.4364a10d.chunk.css",
+    "static/js/main.1359e3cc.chunk.js"
+  ]
+}
